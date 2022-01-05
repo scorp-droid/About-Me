@@ -1,0 +1,49 @@
+body {
+    background: rgb(114, 7, 66);
+    font-family: Tahoma, Arial, sans-serif;
+};
+
+h1 {
+    color: black;
+    font: 80px Garamond, Helvetica, serif;
+    text-align: center;
+};
+h2 {
+    font: 60px Garamond, Helvetica;
+    border: 15px double;
+    color:cadetblue
+    padding: 16px;
+    width: 150px;
+    color: black;
+    font: 25px Garamond, Helvetica, serif;
+    text-align: center;
+    text-emphasis-color: white;
+};
+/* h2 {
+    color: black;
+    font: 25px Garamond, Helvetica, serif;
+    text-align: center;
+    text-emphasis-color: white;
+} */
+
+table {
+    width: 50%;
+}
+
+thead {
+    text-align: center;
+}
+
+label {
+    display: block;
+}
+
+#submit-btn {
+    display: block;
+
+
+{
+    border: 1px solid;
+    padding: 6px;
+    width: 100px; 
+}
